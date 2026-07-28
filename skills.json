@@ -1,8 +1,36 @@
 {
   "title": "Awesome SKILL.md repositories",
   "count": 188,
-  "totalSkillFiles": 4149,
+  "totalSkillFiles": 4206,
   "skills": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "category": "Frameworks & Methodology",
+      "description": "Make your coding agent follow a disciplined TDD, debugging, and review workflow",
+      "branch": "main",
+      "skillFiles": [
+        "skills/brainstorming/SKILL.md",
+        "skills/dispatching-parallel-agents/SKILL.md",
+        "skills/executing-plans/SKILL.md",
+        "skills/finishing-a-development-branch/SKILL.md",
+        "skills/receiving-code-review/SKILL.md",
+        "skills/requesting-code-review/SKILL.md",
+        "skills/subagent-driven-development/SKILL.md",
+        "skills/systematic-debugging/SKILL.md",
+        "skills/test-driven-development/SKILL.md",
+        "skills/using-git-worktrees/SKILL.md",
+        "skills/using-superpowers/SKILL.md",
+        "skills/verification-before-completion/SKILL.md",
+        "skills/writing-plans/SKILL.md",
+        "skills/writing-skills/SKILL.md"
+      ],
+      "skillCount": 14,
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/obra/superpowers/tree/main/skills"
+    },
     {
       "name": "garrytan/gstack",
       "owner": "garrytan",
@@ -167,8 +195,8 @@
         "skills/writing-skills/SKILL.md"
       ],
       "skillCount": 20,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/jnMetaCode/superpowers-zh/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/jnMetaCode/superpowers-zh/tree/main/skills"
     },
     {
       "name": "tw93/Waza",
@@ -222,8 +250,8 @@
         "skills/workflows/SKILL.md"
       ],
       "skillCount": 11,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/HughYau/qiushi-skill/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/HughYau/qiushi-skill/tree/main/skills"
     },
     {
       "name": "gotalab/cc-sdd",
@@ -445,8 +473,8 @@
         "Skills/wireless/offensive-zigbee-thread-matter/SKILL.md"
       ],
       "skillCount": 58,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/SnailSploit/Claude-Red/tree/main"
+      "skillRoot": "Skills",
+      "skillRootUrl": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills"
     },
     {
       "name": "DenisSergeevitch/agents-best-practices",
@@ -476,84 +504,8 @@
         "skills/osint-methodology/SKILL.md"
       ],
       "skillCount": 2,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/elementalsouls/Claude-OSINT/tree/main"
-    },
-    {
-      "name": "wondelai/skills",
-      "owner": "wondelai",
-      "repo": "skills",
-      "url": "https://github.com/wondelai/skills",
-      "category": "Frameworks & Methodology",
-      "description": "Apply 60+ product, design, and engineering methodology skills",
-      "branch": "main",
-      "skillFiles": [
-        "37signals-way/SKILL.md",
-        "blue-ocean-strategy/SKILL.md",
-        "clean-architecture/SKILL.md",
-        "clean-code/SKILL.md",
-        "cold-start-problem/SKILL.md",
-        "contagious/SKILL.md",
-        "continuous-discovery/SKILL.md",
-        "create-app/SKILL.md",
-        "create-business/SKILL.md",
-        "create-website/SKILL.md",
-        "cro-methodology/SKILL.md",
-        "crossing-the-chasm/SKILL.md",
-        "ddia-systems/SKILL.md",
-        "design-code-architecture/SKILL.md",
-        "design-everyday-things/SKILL.md",
-        "design-sprint/SKILL.md",
-        "domain-driven-design/SKILL.md",
-        "drive-motivation/SKILL.md",
-        "good-strategy-bad-strategy/SKILL.md",
-        "grow-app/SKILL.md",
-        "grow-business/SKILL.md",
-        "grow-website/SKILL.md",
-        "high-output-management/SKILL.md",
-        "high-perf-browser/SKILL.md",
-        "hooked-ux/SKILL.md",
-        "hundred-million-offers/SKILL.md",
-        "improve-app/SKILL.md",
-        "improve-business/SKILL.md",
-        "improve-code-quality/SKILL.md",
-        "improve-retention/SKILL.md",
-        "improve-website/SKILL.md",
-        "influence-psychology/SKILL.md",
-        "inspired-product/SKILL.md",
-        "ios-hig-design/SKILL.md",
-        "jobs-to-be-done/SKILL.md",
-        "lean-analytics/SKILL.md",
-        "lean-startup/SKILL.md",
-        "lean-ux/SKILL.md",
-        "made-to-stick/SKILL.md",
-        "microinteractions/SKILL.md",
-        "mom-test/SKILL.md",
-        "monetizing-innovation/SKILL.md",
-        "negotiation/SKILL.md",
-        "obviously-awesome/SKILL.md",
-        "one-page-marketing/SKILL.md",
-        "pragmatic-programmer/SKILL.md",
-        "predictable-revenue/SKILL.md",
-        "refactoring-patterns/SKILL.md",
-        "refactoring-ui/SKILL.md",
-        "release-it/SKILL.md",
-        "remove-technical-debt/SKILL.md",
-        "scorecard-marketing/SKILL.md",
-        "software-design-philosophy/SKILL.md",
-        "steve-jobs-design-review/SKILL.md",
-        "storybrand-messaging/SKILL.md",
-        "system-design/SKILL.md",
-        "team-topologies/SKILL.md",
-        "top-design/SKILL.md",
-        "traction-eos/SKILL.md",
-        "ux-heuristics/SKILL.md",
-        "web-typography/SKILL.md",
-        "working-with-legacy-code/SKILL.md"
-      ],
-      "skillCount": 62,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/wondelai/skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/elementalsouls/Claude-OSINT/tree/main/skills"
     },
     {
       "name": "xu-xiang/everything-claude-code-zh",
@@ -755,6 +707,82 @@
       "skillRootUrl": "https://github.com/xu-xiang/everything-claude-code-zh/tree/main"
     },
     {
+      "name": "wondelai/skills",
+      "owner": "wondelai",
+      "repo": "skills",
+      "url": "https://github.com/wondelai/skills",
+      "category": "Frameworks & Methodology",
+      "description": "Apply 60+ product, design, and engineering methodology skills",
+      "branch": "main",
+      "skillFiles": [
+        "37signals-way/SKILL.md",
+        "blue-ocean-strategy/SKILL.md",
+        "clean-architecture/SKILL.md",
+        "clean-code/SKILL.md",
+        "cold-start-problem/SKILL.md",
+        "contagious/SKILL.md",
+        "continuous-discovery/SKILL.md",
+        "create-app/SKILL.md",
+        "create-business/SKILL.md",
+        "create-website/SKILL.md",
+        "cro-methodology/SKILL.md",
+        "crossing-the-chasm/SKILL.md",
+        "ddia-systems/SKILL.md",
+        "design-code-architecture/SKILL.md",
+        "design-everyday-things/SKILL.md",
+        "design-sprint/SKILL.md",
+        "domain-driven-design/SKILL.md",
+        "drive-motivation/SKILL.md",
+        "good-strategy-bad-strategy/SKILL.md",
+        "grow-app/SKILL.md",
+        "grow-business/SKILL.md",
+        "grow-website/SKILL.md",
+        "high-output-management/SKILL.md",
+        "high-perf-browser/SKILL.md",
+        "hooked-ux/SKILL.md",
+        "hundred-million-offers/SKILL.md",
+        "improve-app/SKILL.md",
+        "improve-business/SKILL.md",
+        "improve-code-quality/SKILL.md",
+        "improve-retention/SKILL.md",
+        "improve-website/SKILL.md",
+        "influence-psychology/SKILL.md",
+        "inspired-product/SKILL.md",
+        "ios-hig-design/SKILL.md",
+        "jobs-to-be-done/SKILL.md",
+        "lean-analytics/SKILL.md",
+        "lean-startup/SKILL.md",
+        "lean-ux/SKILL.md",
+        "made-to-stick/SKILL.md",
+        "microinteractions/SKILL.md",
+        "mom-test/SKILL.md",
+        "monetizing-innovation/SKILL.md",
+        "negotiation/SKILL.md",
+        "obviously-awesome/SKILL.md",
+        "one-page-marketing/SKILL.md",
+        "pragmatic-programmer/SKILL.md",
+        "predictable-revenue/SKILL.md",
+        "refactoring-patterns/SKILL.md",
+        "refactoring-ui/SKILL.md",
+        "release-it/SKILL.md",
+        "remove-technical-debt/SKILL.md",
+        "scorecard-marketing/SKILL.md",
+        "software-design-philosophy/SKILL.md",
+        "steve-jobs-design-review/SKILL.md",
+        "storybrand-messaging/SKILL.md",
+        "system-design/SKILL.md",
+        "team-topologies/SKILL.md",
+        "top-design/SKILL.md",
+        "traction-eos/SKILL.md",
+        "ux-heuristics/SKILL.md",
+        "web-typography/SKILL.md",
+        "working-with-legacy-code/SKILL.md"
+      ],
+      "skillCount": 62,
+      "skillRoot": "",
+      "skillRootUrl": "https://github.com/wondelai/skills/tree/main"
+    },
+    {
       "name": "tjboudreaux/cc-thinking-skills",
       "owner": "tjboudreaux",
       "repo": "cc-thinking-skills",
@@ -763,35 +791,32 @@
       "description": "Apply 18 mental models and critical-thinking frameworks",
       "branch": "main",
       "skillFiles": [
-        "skills/thinking-archetypes/SKILL.md",
-        "skills/thinking-bayesian/SKILL.md",
+        "evals/studies/scientific-method-vnext/variants/candidate-01/SKILL.md",
+        "evals/studies/scientific-method-vnext/variants/candidate-02/SKILL.md",
+        "evals/studies/scientific-method-vnext/variants/candidate-03/SKILL.md",
+        "evals/studies/scientific-method-vnext/variants/candidate-04/SKILL.md",
+        "evals/studies/scientific-method-vnext/variants/candidate-05/SKILL.md",
+        "evals/studies/scientific-method-vnext/variants/candidate-06/SKILL.md",
+        "evals/studies/scientific-method-vnext/variants/candidate-clue-first/SKILL.md",
+        "evals/studies/scientific-method-vnext/variants/candidate-module-role/SKILL.md",
         "skills/thinking-bounded-rationality/SKILL.md",
         "skills/thinking-circle-of-competence/SKILL.md",
         "skills/thinking-cynefin/SKILL.md",
-        "skills/thinking-debiasing/SKILL.md",
-        "skills/thinking-dual-process/SKILL.md",
         "skills/thinking-effectuation/SKILL.md",
-        "skills/thinking-feedback-loops/SKILL.md",
-        "skills/thinking-fermi-estimation/SKILL.md",
         "skills/thinking-first-principles/SKILL.md",
         "skills/thinking-five-whys-plus/SKILL.md",
-        "skills/thinking-inversion/SKILL.md",
         "skills/thinking-jobs-to-be-done/SKILL.md",
         "skills/thinking-kepner-tregoe/SKILL.md",
-        "skills/thinking-leverage-points/SKILL.md",
         "skills/thinking-lindy-effect/SKILL.md",
         "skills/thinking-map-territory/SKILL.md",
         "skills/thinking-margin-of-safety/SKILL.md",
         "skills/thinking-model-combination/SKILL.md",
         "skills/thinking-model-router/SKILL.md",
-        "skills/thinking-model-selection/SKILL.md",
-        "skills/thinking-occams-razor/SKILL.md",
         "skills/thinking-ooda/SKILL.md",
         "skills/thinking-opportunity-cost/SKILL.md",
         "skills/thinking-pre-mortem/SKILL.md",
         "skills/thinking-probabilistic/SKILL.md",
         "skills/thinking-red-team/SKILL.md",
-        "skills/thinking-regret-minimization/SKILL.md",
         "skills/thinking-reversibility/SKILL.md",
         "skills/thinking-scientific-method/SKILL.md",
         "skills/thinking-second-order/SKILL.md",
@@ -803,7 +828,7 @@
         "skills/thinking-triz/SKILL.md",
         "skills/thinking-via-negativa/SKILL.md"
       ],
-      "skillCount": 39,
+      "skillCount": 36,
       "skillRoot": "",
       "skillRootUrl": "https://github.com/tjboudreaux/cc-thinking-skills/tree/main"
     },
@@ -860,36 +885,8 @@
         "output/yoshua-bengio/SKILL.md"
       ],
       "skillCount": 20,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/K-Dense-AI/mimeo/tree/main"
-    },
-    {
-      "name": "obra/superpowers",
-      "owner": "obra",
-      "repo": "superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "category": "Frameworks & Methodology",
-      "description": "Make your coding agent follow a disciplined TDD, debugging, and review workflow",
-      "branch": "main",
-      "skillFiles": [
-        "skills/brainstorming/SKILL.md",
-        "skills/dispatching-parallel-agents/SKILL.md",
-        "skills/executing-plans/SKILL.md",
-        "skills/finishing-a-development-branch/SKILL.md",
-        "skills/receiving-code-review/SKILL.md",
-        "skills/requesting-code-review/SKILL.md",
-        "skills/subagent-driven-development/SKILL.md",
-        "skills/systematic-debugging/SKILL.md",
-        "skills/test-driven-development/SKILL.md",
-        "skills/using-git-worktrees/SKILL.md",
-        "skills/using-superpowers/SKILL.md",
-        "skills/verification-before-completion/SKILL.md",
-        "skills/writing-plans/SKILL.md",
-        "skills/writing-skills/SKILL.md"
-      ],
-      "skillCount": 14,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/obra/superpowers/tree/main"
+      "skillRoot": "output",
+      "skillRootUrl": "https://github.com/K-Dense-AI/mimeo/tree/main/output"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -908,6 +905,7 @@
         "external_plugins/telegram/skills/configure/SKILL.md",
         "plugins/claude-code-setup/skills/claude-automation-recommender/SKILL.md",
         "plugins/claude-md-management/skills/claude-md-improver/SKILL.md",
+        "plugins/claude-security/skills/claude-security/SKILL.md",
         "plugins/cwc-makers/skills/cardputer-buddy/SKILL.md",
         "plugins/cwc-makers/skills/m5-onboard/SKILL.md",
         "plugins/example-plugin/skills/example-command/SKILL.md",
@@ -931,7 +929,7 @@
         "plugins/session-report/skills/session-report/SKILL.md",
         "plugins/skill-creator/skills/skill-creator/SKILL.md"
       ],
-      "skillCount": 30,
+      "skillCount": 31,
       "skillRoot": "",
       "skillRootUrl": "https://github.com/anthropics/claude-plugins-official/tree/main"
     },
@@ -947,6 +945,7 @@
         "skills/ads/data-manager-api-audience-ingestion/SKILL.md",
         "skills/ads/data-manager-api-event-ingestion/SKILL.md",
         "skills/ads/data-manager-api-setup/SKILL.md",
+        "skills/ads/google-ads-api-account-diagnostics/SKILL.md",
         "skills/ads/google-ads-api-mcp-setup/SKILL.md",
         "skills/ads/google-ads-api-quickstart/SKILL.md",
         "skills/ads/google-mobile-ads-android-migrate-to-next-gen/SKILL.md",
@@ -987,6 +986,7 @@
         "skills/cloud/gemini-api/SKILL.md",
         "skills/cloud/gemini-interactions-api/SKILL.md",
         "skills/cloud/gemini-live-api/SKILL.md",
+        "skills/cloud/gke-ai-troubleshooting-handle-disruption-gpu-tpu/SKILL.md",
         "skills/cloud/gke-app-onboarding/SKILL.md",
         "skills/cloud/gke-backup-dr/SKILL.md",
         "skills/cloud/gke-basics/SKILL.md",
@@ -994,17 +994,21 @@
         "skills/cloud/gke-cluster-autoscaler/SKILL.md",
         "skills/cloud/gke-cluster-creation/SKILL.md",
         "skills/cloud/gke-compute-classes/SKILL.md",
-        "skills/cloud/gke-cost/SKILL.md",
+        "skills/cloud/gke-cost-analysis/SKILL.md",
+        "skills/cloud/gke-cost-optimization/SKILL.md",
         "skills/cloud/gke-golden-path/SKILL.md",
         "skills/cloud/gke-inference/SKILL.md",
         "skills/cloud/gke-multitenancy/SKILL.md",
         "skills/cloud/gke-networking/SKILL.md",
         "skills/cloud/gke-observability/SKILL.md",
+        "skills/cloud/gke-platform-security/SKILL.md",
+        "skills/cloud/gke-productionize/SKILL.md",
         "skills/cloud/gke-reliability/SKILL.md",
-        "skills/cloud/gke-security/SKILL.md",
+        "skills/cloud/gke-service-networking/SKILL.md",
         "skills/cloud/gke-storage/SKILL.md",
         "skills/cloud/gke-upgrades/SKILL.md",
         "skills/cloud/gke-workload-scaling/SKILL.md",
+        "skills/cloud/gke-workload-security/SKILL.md",
         "skills/cloud/google-agents-cli-onboarding/SKILL.md",
         "skills/cloud/google-cloud-global-frontend-configuration/SKILL.md",
         "skills/cloud/google-cloud-networking-observability/SKILL.md",
@@ -1017,8 +1021,10 @@
         "skills/cloud/google-cloud-solution-agentic-analytics-spark-knowledge-catalog/SKILL.md",
         "skills/cloud/google-cloud-solution-architecture/SKILL.md",
         "skills/cloud/google-cloud-solution-build-deploy-agents/SKILL.md",
+        "skills/cloud/google-cloud-solution-guided-gke-ai-migration/SKILL.md",
         "skills/cloud/google-cloud-solution-n-tier-serverless-web-app/SKILL.md",
         "skills/cloud/google-cloud-solution-rag-enterprise-search-gke-sqldb/SKILL.md",
+        "skills/cloud/google-cloud-storage-basics/SKILL.md",
         "skills/cloud/google-cloud-waf-cost-optimization/SKILL.md",
         "skills/cloud/google-cloud-waf-operational-excellence/SKILL.md",
         "skills/cloud/google-cloud-waf-performance-optimization/SKILL.md",
@@ -1027,9 +1033,9 @@
         "skills/cloud/google-cloud-waf-sustainability/SKILL.md",
         "skills/cloud/workload-manager-basics/SKILL.md"
       ],
-      "skillCount": 82,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/google/skills/tree/main"
+      "skillCount": 90,
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/google/skills/tree/main/skills"
     },
     {
       "name": "huggingface/skills",
@@ -1142,6 +1148,7 @@
         "skills/sn-ppt-doctor/SKILL.md",
         "skills/sn-ppt-entry/SKILL.md",
         "skills/sn-ppt-standard/SKILL.md",
+        "skills/sn-ppt-workbench/SKILL.md",
         "skills/sn-prepare-citations/SKILL.md",
         "skills/sn-report-format-discovery/SKILL.md",
         "skills/sn-research-report/SKILL.md",
@@ -1156,9 +1163,9 @@
         "skills/sn-search-year-report/SKILL.md",
         "skills/sn-update/SKILL.md"
       ],
-      "skillCount": 75,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/OpenSenseNova/SenseNova-Skills/tree/main"
+      "skillCount": 76,
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/OpenSenseNova/SenseNova-Skills/tree/main/skills"
     },
     {
       "name": "google-gemini/gemini-skills",
@@ -1175,8 +1182,8 @@
         "skills/gemini-omni-flash-api/SKILL.md"
       ],
       "skillCount": 4,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/google-gemini/gemini-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/google-gemini/gemini-skills/tree/main/skills"
     },
     {
       "name": "cloudflare/skills",
@@ -1200,8 +1207,24 @@
         "skills/wrangler/SKILL.md"
       ],
       "skillCount": 11,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/cloudflare/skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/cloudflare/skills/tree/main/skills"
+    },
+    {
+      "name": "supabase/agent-skills",
+      "owner": "supabase",
+      "repo": "agent-skills",
+      "url": "https://github.com/supabase/agent-skills",
+      "category": "Official & Vendor",
+      "description": "Build database and backend features with official Supabase skills",
+      "branch": "main",
+      "skillFiles": [
+        "skills/supabase-postgres-best-practices/SKILL.md",
+        "skills/supabase/SKILL.md"
+      ],
+      "skillCount": 2,
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/supabase/agent-skills/tree/main/skills"
     },
     {
       "name": "expo/skills",
@@ -1241,22 +1264,6 @@
       "skillRootUrl": "https://github.com/expo/skills/tree/main"
     },
     {
-      "name": "supabase/agent-skills",
-      "owner": "supabase",
-      "repo": "agent-skills",
-      "url": "https://github.com/supabase/agent-skills",
-      "category": "Official & Vendor",
-      "description": "Build database and backend features with official Supabase skills",
-      "branch": "main",
-      "skillFiles": [
-        "skills/supabase-postgres-best-practices/SKILL.md",
-        "skills/supabase/SKILL.md"
-      ],
-      "skillCount": 2,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/supabase/agent-skills/tree/main"
-    },
-    {
       "name": "WordPress/agent-skills",
       "owner": "WordPress",
       "repo": "agent-skills",
@@ -1285,8 +1292,8 @@
         "skills/wpds/SKILL.md"
       ],
       "skillCount": 18,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/WordPress/agent-skills/tree/trunk"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/WordPress/agent-skills/tree/trunk/skills"
     },
     {
       "name": "microsoft/skills-for-fabric",
@@ -1321,6 +1328,7 @@
         "plugins/fabric-consumption/skills/spark-consumption-cli/SKILL.md",
         "plugins/fabric-consumption/skills/sqldb-consumption-cli/SKILL.md",
         "plugins/fabric-consumption/skills/sqldw-consumption-cli/SKILL.md",
+        "plugins/fabric-operations/skills/azmon-mirroredcatalogs-operations-cli/SKILL.md",
         "plugins/fabric-operations/skills/check-updates/SKILL.md",
         "plugins/fabric-operations/skills/mlv-operations-cli/SKILL.md",
         "plugins/fabric-operations/skills/spark-operations-cli/SKILL.md",
@@ -1328,6 +1336,7 @@
         "plugins/fabric-operations/skills/sqldw-operations-cli/SKILL.md",
         "plugins/fabric-skills/skills/activator-authoring-cli/SKILL.md",
         "plugins/fabric-skills/skills/activator-consumption-cli/SKILL.md",
+        "plugins/fabric-skills/skills/azmon-mirroredcatalogs-operations-cli/SKILL.md",
         "plugins/fabric-skills/skills/check-updates/SKILL.md",
         "plugins/fabric-skills/skills/databricks-migration/SKILL.md",
         "plugins/fabric-skills/skills/dataflows-authoring-cli/SKILL.md",
@@ -1365,6 +1374,7 @@
         "plugins/powerbi-authoring/skills/semantic-model-authoring/SKILL.md",
         "skills/activator-authoring-cli/SKILL.md",
         "skills/activator-consumption-cli/SKILL.md",
+        "skills/azmon-mirroredcatalogs-operations-cli/SKILL.md",
         "skills/check-updates/SKILL.md",
         "skills/databricks-migration/SKILL.md",
         "skills/dataflows-authoring-cli/SKILL.md",
@@ -1399,7 +1409,7 @@
         "skills/sqldw-operations-cli/SKILL.md",
         "skills/synapse-migration/SKILL.md"
       ],
-      "skillCount": 101,
+      "skillCount": 104,
       "skillRoot": "",
       "skillRootUrl": "https://github.com/microsoft/skills-for-fabric/tree/main"
     },
@@ -1435,21 +1445,6 @@
       "skillRootUrl": "https://github.com/hashicorp/agent-skills/tree/main"
     },
     {
-      "name": "solana-foundation/solana-dev-skill",
-      "owner": "solana-foundation",
-      "repo": "solana-dev-skill",
-      "url": "https://github.com/solana-foundation/solana-dev-skill",
-      "category": "Official & Vendor",
-      "description": "Build on Solana with the foundation's official skill",
-      "branch": "main",
-      "skillFiles": [
-        "skills/solana-dev/SKILL.md"
-      ],
-      "skillCount": 1,
-      "skillRoot": "skills/solana-dev",
-      "skillRootUrl": "https://github.com/solana-foundation/solana-dev-skill/tree/main/skills/solana-dev"
-    },
-    {
       "name": "microsoft/power-platform-skills",
       "owner": "microsoft",
       "repo": "power-platform-skills",
@@ -1461,7 +1456,6 @@
         "plugins/canvas-apps/skills/add-data-source/SKILL.md",
         "plugins/canvas-apps/skills/canvas-app/SKILL.md",
         "plugins/canvas-apps/skills/configure-canvas-mcp/SKILL.md",
-        "plugins/canvas-apps/skills/generate-canvas-app/SKILL.md",
         "plugins/canvas-apps/skills/report-issue/SKILL.md",
         "plugins/code-apps/skills/add-azuredevops/SKILL.md",
         "plugins/code-apps/skills/add-connector/SKILL.md",
@@ -1473,6 +1467,7 @@
         "plugins/code-apps/skills/add-onedrive/SKILL.md",
         "plugins/code-apps/skills/add-sharepoint/SKILL.md",
         "plugins/code-apps/skills/add-teams/SKILL.md",
+        "plugins/code-apps/skills/add-workiq/SKILL.md",
         "plugins/code-apps/skills/create-code-app/SKILL.md",
         "plugins/code-apps/skills/deploy/SKILL.md",
         "plugins/code-apps/skills/list-connections/SKILL.md",
@@ -1509,6 +1504,7 @@
         "plugins/mobile-apps/skills/setup-offline-profile/SKILL.md",
         "plugins/model-apps/skills/genpage/SKILL.md",
         "plugins/model-apps/skills/report-issue/SKILL.md",
+        "plugins/model-apps/skills/telemetry/SKILL.md",
         "plugins/power-automate/skills/browse-flows/SKILL.md",
         "plugins/power-automate/skills/build-flow/SKILL.md",
         "plugins/power-automate/skills/create-flow/SKILL.md",
@@ -1552,9 +1548,24 @@
         "plugins/power-pages/skills/telemetry/SKILL.md",
         "plugins/power-pages/skills/test-site/SKILL.md"
       ],
-      "skillCount": 93,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/microsoft/power-platform-skills/tree/main"
+      "skillCount": 94,
+      "skillRoot": "plugins",
+      "skillRootUrl": "https://github.com/microsoft/power-platform-skills/tree/main/plugins"
+    },
+    {
+      "name": "solana-foundation/solana-dev-skill",
+      "owner": "solana-foundation",
+      "repo": "solana-dev-skill",
+      "url": "https://github.com/solana-foundation/solana-dev-skill",
+      "category": "Official & Vendor",
+      "description": "Build on Solana with the foundation's official skill",
+      "branch": "main",
+      "skillFiles": [
+        "skills/solana-dev/SKILL.md"
+      ],
+      "skillCount": 1,
+      "skillRoot": "skills/solana-dev",
+      "skillRootUrl": "https://github.com/solana-foundation/solana-dev-skill/tree/main/skills%2Fsolana-dev"
     },
     {
       "name": "posit-dev/skills",
@@ -1646,8 +1657,8 @@
         "skills/websocket-realtime/SKILL.md"
       ],
       "skillCount": 40,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/rohitg00/awesome-claude-code-toolkit/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/rohitg00/awesome-claude-code-toolkit/tree/main/skills"
     },
     {
       "name": "bergside/awesome-design-skills",
@@ -1727,8 +1738,8 @@
         "skills/vintage/SKILL.md"
       ],
       "skillCount": 67,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/bergside/awesome-design-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/bergside/awesome-design-skills/tree/main/skills"
     },
     {
       "name": "Prat011/awesome-llm-skills",
@@ -1880,6 +1891,25 @@
       "skillRootUrl": "https://github.com/daymade/claude-code-skills/tree/main"
     },
     {
+      "name": "JackyST0/awesome-agent-skills",
+      "owner": "JackyST0",
+      "repo": "awesome-agent-skills",
+      "url": "https://github.com/JackyST0/awesome-agent-skills",
+      "category": "Curated Lists",
+      "description": "Find Agent Skills that work across Cursor, Claude Code, and Copilot",
+      "branch": "main",
+      "skillFiles": [
+        "examples/api-doc-generator/SKILL.md",
+        "examples/code-review/SKILL.md",
+        "examples/debug-helper/SKILL.md",
+        "examples/git-commit/SKILL.md",
+        "examples/unit-test-generator/SKILL.md"
+      ],
+      "skillCount": 5,
+      "skillRoot": "examples",
+      "skillRootUrl": "https://github.com/JackyST0/awesome-agent-skills/tree/main/examples"
+    },
+    {
       "name": "Gentleman-Programming/Gentleman-Skills",
       "owner": "Gentleman-Programming",
       "repo": "Gentleman-Skills",
@@ -1918,25 +1948,6 @@
       "skillRootUrl": "https://github.com/Gentleman-Programming/Gentleman-Skills/tree/main"
     },
     {
-      "name": "JackyST0/awesome-agent-skills",
-      "owner": "JackyST0",
-      "repo": "awesome-agent-skills",
-      "url": "https://github.com/JackyST0/awesome-agent-skills",
-      "category": "Curated Lists",
-      "description": "Find Agent Skills that work across Cursor, Claude Code, and Copilot",
-      "branch": "main",
-      "skillFiles": [
-        "examples/api-doc-generator/SKILL.md",
-        "examples/code-review/SKILL.md",
-        "examples/debug-helper/SKILL.md",
-        "examples/git-commit/SKILL.md",
-        "examples/unit-test-generator/SKILL.md"
-      ],
-      "skillCount": 5,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/JackyST0/awesome-agent-skills/tree/main"
-    },
-    {
       "name": "crystian/skills",
       "owner": "crystian",
       "repo": "skills",
@@ -1949,8 +1960,8 @@
         "skills/skill-optimizer/SKILL.md"
       ],
       "skillCount": 2,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/crystian/skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/crystian/skills/tree/main/skills"
     },
     {
       "name": "michaelboeding/skills",
@@ -2005,8 +2016,8 @@
         "skills/xlsx/SKILL.md"
       ],
       "skillCount": 42,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/michaelboeding/skills/tree/master"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/michaelboeding/skills/tree/master/skills"
     },
     {
       "name": "Graphify-Labs/graphify",
@@ -2214,8 +2225,8 @@
         "plugins/ui-design/skills/web-component-design/SKILL.md"
       ],
       "skillCount": 180,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/wshobson/agents/tree/main"
+      "skillRoot": "plugins",
+      "skillRootUrl": "https://github.com/wshobson/agents/tree/main/plugins"
     },
     {
       "name": "sipeed/picoclaw",
@@ -2236,8 +2247,8 @@
         "workspace/skills/weather/SKILL.md"
       ],
       "skillCount": 8,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/sipeed/picoclaw/tree/main"
+      "skillRoot": "workspace/skills",
+      "skillRootUrl": "https://github.com/sipeed/picoclaw/tree/main/workspace%2Fskills"
     },
     {
       "name": "microsoft/SkillOpt",
@@ -2250,11 +2261,12 @@
       "skillFiles": [
         "plugins/claude-code/skills/skillopt-sleep/SKILL.md",
         "plugins/codex/skills/skillopt-sleep/SKILL.md",
+        "plugins/cursor/skills/skillopt-sleep/SKILL.md",
         "plugins/openclaw/SKILL.md"
       ],
-      "skillCount": 3,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/microsoft/SkillOpt/tree/main"
+      "skillCount": 4,
+      "skillRoot": "plugins",
+      "skillRootUrl": "https://github.com/microsoft/SkillOpt/tree/main/plugins"
     },
     {
       "name": "numman-ali/openskills",
@@ -2269,7 +2281,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "examples/my-first-skill",
-      "skillRootUrl": "https://github.com/numman-ali/openskills/tree/main/examples/my-first-skill"
+      "skillRootUrl": "https://github.com/numman-ali/openskills/tree/main/examples%2Fmy-first-skill"
     },
     {
       "name": "virgiliojr94/book-to-skill",
@@ -2299,7 +2311,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/manage-skills",
-      "skillRootUrl": "https://github.com/xingkongliang/skills-manager/tree/main/skills/manage-skills"
+      "skillRootUrl": "https://github.com/xingkongliang/skills-manager/tree/main/skills%2Fmanage-skills"
     },
     {
       "name": "runkids/skillshare",
@@ -2387,8 +2399,8 @@
         "skills/youtube-transcribe-skill/SKILL.md"
       ],
       "skillCount": 12,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/feiskyer/claude-code-settings/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/feiskyer/claude-code-settings/tree/main/skills"
     },
     {
       "name": "rohitg00/skillkit",
@@ -2476,8 +2488,8 @@
         "skills/built-in/xlsx/SKILL.md"
       ],
       "skillCount": 44,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/microclaw/microclaw/tree/main"
+      "skillRoot": "skills/built-in",
+      "skillRootUrl": "https://github.com/microclaw/microclaw/tree/main/skills%2Fbuilt-in"
     },
     {
       "name": "gotalab/skillport",
@@ -2493,8 +2505,8 @@
         ".skills/experimental/skill-evaluator/SKILL.md"
       ],
       "skillCount": 3,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/gotalab/skillport/tree/main"
+      "skillRoot": ".skills/experimental",
+      "skillRootUrl": "https://github.com/gotalab/skillport/tree/main/.skills%2Fexperimental"
     },
     {
       "name": "Narwhal-Lab/MagicSkills",
@@ -2509,7 +2521,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skill_template/c_2_ast",
-      "skillRootUrl": "https://github.com/Narwhal-Lab/MagicSkills/tree/main/skill_template/c_2_ast"
+      "skillRootUrl": "https://github.com/Narwhal-Lab/MagicSkills/tree/main/skill_template%2Fc_2_ast"
     },
     {
       "name": "Evol-ai/SkillCompass",
@@ -2592,8 +2604,8 @@
         "evals/test_skills/safe/simple-formatter/SKILL.md"
       ],
       "skillCount": 20,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/cisco-ai-defense/skill-scanner/tree/main"
+      "skillRoot": "evals",
+      "skillRootUrl": "https://github.com/cisco-ai-defense/skill-scanner/tree/main/evals"
     },
     {
       "name": "utkusen/sast-skills",
@@ -2638,8 +2650,8 @@
         "sast-files/.claude/skills/sast-xxe/SKILL.md"
       ],
       "skillCount": 32,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/utkusen/sast-skills/tree/main"
+      "skillRoot": "sast-files",
+      "skillRootUrl": "https://github.com/utkusen/sast-skills/tree/main/sast-files"
     },
     {
       "name": "rsoffer/linus-level-skill",
@@ -2654,7 +2666,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/linus-level",
-      "skillRootUrl": "https://github.com/rsoffer/linus-level-skill/tree/main/skills/linus-level"
+      "skillRootUrl": "https://github.com/rsoffer/linus-level-skill/tree/main/skills%2Flinus-level"
     },
     {
       "name": "theinfosecguy/razin",
@@ -2737,8 +2749,8 @@
         "skills/productivity/writing-great-skills/SKILL.md"
       ],
       "skillCount": 41,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/mattpocock/skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/mattpocock/skills/tree/main/skills"
     },
     {
       "name": "DietrichGebert/ponytail",
@@ -2801,8 +2813,8 @@
         "skills/using-agent-skills/SKILL.md"
       ],
       "skillCount": 24,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/addyosmani/agent-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills"
     },
     {
       "name": "Jeffallan/claude-skills",
@@ -2881,8 +2893,8 @@
         "skills/wordpress-pro/SKILL.md"
       ],
       "skillCount": 66,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/Jeffallan/claude-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/Jeffallan/claude-skills/tree/main/skills"
     },
     {
       "name": "samber/cc-skills-golang",
@@ -2941,23 +2953,8 @@
         "skills/golang-uber-fx/SKILL.md"
       ],
       "skillCount": 46,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/samber/cc-skills-golang/tree/main"
-    },
-    {
-      "name": "antonbabenko/terraform-skill",
-      "owner": "antonbabenko",
-      "repo": "terraform-skill",
-      "url": "https://github.com/antonbabenko/terraform-skill",
-      "category": "Software Engineering",
-      "description": "Write better Terraform and OpenTofu infrastructure code",
-      "branch": "master",
-      "skillFiles": [
-        "skills/terraform-skill/SKILL.md"
-      ],
-      "skillCount": 1,
-      "skillRoot": "skills/terraform-skill",
-      "skillRootUrl": "https://github.com/antonbabenko/terraform-skill/tree/master/skills/terraform-skill"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/samber/cc-skills-golang/tree/main/skills"
     },
     {
       "name": "softaworks/agent-toolkit",
@@ -3060,6 +3057,21 @@
       "skillRootUrl": "https://github.com/softaworks/agent-toolkit/tree/main"
     },
     {
+      "name": "antonbabenko/terraform-skill",
+      "owner": "antonbabenko",
+      "repo": "terraform-skill",
+      "url": "https://github.com/antonbabenko/terraform-skill",
+      "category": "Software Engineering",
+      "description": "Write better Terraform and OpenTofu infrastructure code",
+      "branch": "master",
+      "skillFiles": [
+        "skills/terraform-skill/SKILL.md"
+      ],
+      "skillCount": 1,
+      "skillRoot": "skills/terraform-skill",
+      "skillRootUrl": "https://github.com/antonbabenko/terraform-skill/tree/master/skills%2Fterraform-skill"
+    },
+    {
       "name": "glittercowboy/taches-cc-resources",
       "owner": "glittercowboy",
       "repo": "taches-cc-resources",
@@ -3082,8 +3094,8 @@
         "skills/the-pirate-bay/SKILL.md"
       ],
       "skillCount": 12,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/glittercowboy/taches-cc-resources/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/glittercowboy/taches-cc-resources/tree/main/skills"
     },
     {
       "name": "awesome-skills/code-review-skill",
@@ -3113,7 +3125,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "plugins/skill-codex/skills/codex",
-      "skillRootUrl": "https://github.com/skills-directory/skill-codex/tree/main/plugins/skill-codex/skills/codex"
+      "skillRootUrl": "https://github.com/skills-directory/skill-codex/tree/main/plugins%2Fskill-codex%2Fskills%2Fcodex"
     },
     {
       "name": "Aaronontheweb/dotnet-skills",
@@ -3161,8 +3173,8 @@
         "skills/verify-email-snapshots/SKILL.md"
       ],
       "skillCount": 35,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/Aaronontheweb/dotnet-skills/tree/master"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/Aaronontheweb/dotnet-skills/tree/master/skills"
     },
     {
       "name": "mohi-devhub/antivibe",
@@ -3209,9 +3221,6 @@
         "karpathy-guidelines/SKILL.md",
         "kimi-webbridge/SKILL.md",
         "migrate-to-shoehorn/SKILL.md",
-        "minimax-docx/SKILL.md",
-        "minimax-pdf/SKILL.md",
-        "minimax-xlsx/SKILL.md",
         "ontoly-software-graph/SKILL.md",
         "opencli/opencli-adapter-author/SKILL.md",
         "opencli/opencli-autofix/SKILL.md",
@@ -3221,13 +3230,12 @@
         "opencli/opencli-usage/SKILL.md",
         "opencli/smart-search/SKILL.md",
         "planning-with-files/SKILL.md",
-        "pptx-generator/SKILL.md",
         "product-decision-agent/SKILL.md",
         "prototype/SKILL.md",
         "tdd/SKILL.md",
         "teach/SKILL.md"
       ],
-      "skillCount": 38,
+      "skillCount": 34,
       "skillRoot": "",
       "skillRootUrl": "https://github.com/mxyhi/ok-skills/tree/main"
     },
@@ -3256,8 +3264,8 @@
         "skills/convex/SKILL.md"
       ],
       "skillCount": 14,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/waynesutton/convexskills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/waynesutton/convexskills/tree/main/skills"
     },
     {
       "name": "machina-sports/sports-skills",
@@ -3295,8 +3303,8 @@
         "skills/xctf-data/SKILL.md"
       ],
       "skillCount": 25,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/machina-sports/sports-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/machina-sports/sports-skills/tree/main/skills"
     },
     {
       "name": "veniceai/skills",
@@ -3393,23 +3401,6 @@
       "skillRootUrl": "https://github.com/tcsenpai/specification-website-skill/tree/main"
     },
     {
-      "name": "KnoxOps/agent-runbook",
-      "owner": "KnoxOps",
-      "repo": "agent-runbook",
-      "url": "https://github.com/KnoxOps/agent-runbook",
-      "category": "Software Engineering",
-      "description": "Contract-based multi-agent skill framework for Claude Code & Codex — compile YAML runbooks into SKILL.md with loop, parallel, and checkpoint support.",
-      "branch": "master",
-      "skillFiles": [
-        "examples/fix-loop/output/SKILL.md",
-        "examples/host-health-loop/output/SKILL.md",
-        "examples/restart-nginx/SKILL.md"
-      ],
-      "skillCount": 3,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/KnoxOps/agent-runbook/tree/master"
-    },
-    {
       "name": "moonrunnerkc/skillcheck",
       "owner": "moonrunnerkc",
       "repo": "skillcheck",
@@ -3425,6 +3416,23 @@
       "skillCount": 3,
       "skillRoot": "",
       "skillRootUrl": "https://github.com/moonrunnerkc/skillcheck/tree/main"
+    },
+    {
+      "name": "KnoxOps/agent-runbook",
+      "owner": "KnoxOps",
+      "repo": "agent-runbook",
+      "url": "https://github.com/KnoxOps/agent-runbook",
+      "category": "Software Engineering",
+      "description": "Contract-based multi-agent skill framework for Claude Code & Codex — compile YAML runbooks into SKILL.md with loop, parallel, and checkpoint support.",
+      "branch": "master",
+      "skillFiles": [
+        "examples/fix-loop/output/SKILL.md",
+        "examples/host-health-loop/output/SKILL.md",
+        "examples/restart-nginx/SKILL.md"
+      ],
+      "skillCount": 3,
+      "skillRoot": "examples",
+      "skillRootUrl": "https://github.com/KnoxOps/agent-runbook/tree/master/examples"
     },
     {
       "name": "ElmatadorZ/Genesis-Mind-ClaudeSkill-Agent",
@@ -3460,8 +3468,8 @@
         "skills/gsap-utils/SKILL.md"
       ],
       "skillCount": 8,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/greensock/gsap-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/greensock/gsap-skills/tree/main/skills"
     },
     {
       "name": "antfu/skills",
@@ -3493,8 +3501,8 @@
         "skills/web-design-guidelines/SKILL.md"
       ],
       "skillCount": 19,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/antfu/skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/antfu/skills/tree/main/skills"
     },
     {
       "name": "vuejs-ai/skills",
@@ -3515,8 +3523,8 @@
         "skills/vue-testing-best-practices/SKILL.md"
       ],
       "skillCount": 8,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/vuejs-ai/skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/vuejs-ai/skills/tree/main/skills"
     },
     {
       "name": "addyosmani/web-quality-skills",
@@ -3535,8 +3543,8 @@
         "skills/web-quality-audit/SKILL.md"
       ],
       "skillCount": 6,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/addyosmani/web-quality-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/addyosmani/web-quality-skills/tree/main/skills"
     },
     {
       "name": "initializ/forge",
@@ -3595,8 +3603,8 @@
         "skills/taste-skill/SKILL.md"
       ],
       "skillCount": 13,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/Leonxlnx/taste-skill/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/Leonxlnx/taste-skill/tree/main/skills"
     },
     {
       "name": "alchaincyf/huashu-design",
@@ -3626,7 +3634,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/hallmark",
-      "skillRootUrl": "https://github.com/Nutlope/hallmark/tree/main/skills/hallmark"
+      "skillRootUrl": "https://github.com/Nutlope/hallmark/tree/main/skills%2Fhallmark"
     },
     {
       "name": "nexu-io/html-anything",
@@ -3720,8 +3728,8 @@
         "next/src/lib/templates/skills/wireframe-sketch/SKILL.md"
       ],
       "skillCount": 81,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/nexu-io/html-anything/tree/main"
+      "skillRoot": "next/src/lib/templates/skills",
+      "skillRootUrl": "https://github.com/nexu-io/html-anything/tree/main/next%2Fsrc%2Flib%2Ftemplates%2Fskills"
     },
     {
       "name": "htmlstreamofficial/preline",
@@ -3736,7 +3744,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/theme-generator",
-      "skillRootUrl": "https://github.com/htmlstreamofficial/preline/tree/main/skills/theme-generator"
+      "skillRootUrl": "https://github.com/htmlstreamofficial/preline/tree/main/skills%2Ftheme-generator"
     },
     {
       "name": "JimLiu/baoyu-design",
@@ -3907,7 +3915,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/material-3",
-      "skillRootUrl": "https://github.com/hamen/material-3-skill/tree/master/skills/material-3"
+      "skillRootUrl": "https://github.com/hamen/material-3-skill/tree/master/skills%2Fmaterial-3"
     },
     {
       "name": "dominikmartn/hue",
@@ -3945,8 +3953,8 @@
         "skills/ros2/SKILL.md"
       ],
       "skillCount": 10,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/arpitg1304/robotics-agent-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/arpitg1304/robotics-agent-skills/tree/main/skills"
     },
     {
       "name": "bergside/design-md-figma",
@@ -3961,7 +3969,7 @@
       ],
       "skillCount": 1,
       "skillRoot": ".agents/skills/figma-plugin",
-      "skillRootUrl": "https://github.com/bergside/design-md-figma/tree/main/.agents/skills/figma-plugin"
+      "skillRootUrl": "https://github.com/bergside/design-md-figma/tree/main/.agents%2Fskills%2Ffigma-plugin"
     },
     {
       "name": "Erikote04/Swift-API-Design-Guidelines-Agent-Skill",
@@ -3991,22 +3999,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "plugins/visual-explainer",
-      "skillRootUrl": "https://github.com/nicobailon/visual-explainer/tree/main/plugins/visual-explainer"
-    },
-    {
-      "name": "Cocoon-AI/architecture-diagram-generator",
-      "owner": "Cocoon-AI",
-      "repo": "architecture-diagram-generator",
-      "url": "https://github.com/Cocoon-AI/architecture-diagram-generator",
-      "category": "Diagrams & Visualization",
-      "description": "Produce dark-themed system architecture diagrams as HTML",
-      "branch": "main",
-      "skillFiles": [
-        "architecture-diagram/SKILL.md"
-      ],
-      "skillCount": 1,
-      "skillRoot": "architecture-diagram",
-      "skillRootUrl": "https://github.com/Cocoon-AI/architecture-diagram-generator/tree/main/architecture-diagram"
+      "skillRootUrl": "https://github.com/nicobailon/visual-explainer/tree/main/plugins%2Fvisual-explainer"
     },
     {
       "name": "tt-a1i/archify",
@@ -4036,7 +4029,22 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/drawio-skill",
-      "skillRootUrl": "https://github.com/Agents365-ai/drawio-skill/tree/main/skills/drawio-skill"
+      "skillRootUrl": "https://github.com/Agents365-ai/drawio-skill/tree/main/skills%2Fdrawio-skill"
+    },
+    {
+      "name": "Cocoon-AI/architecture-diagram-generator",
+      "owner": "Cocoon-AI",
+      "repo": "architecture-diagram-generator",
+      "url": "https://github.com/Cocoon-AI/architecture-diagram-generator",
+      "category": "Diagrams & Visualization",
+      "description": "Produce dark-themed system architecture diagrams as HTML",
+      "branch": "main",
+      "skillFiles": [
+        "architecture-diagram/SKILL.md"
+      ],
+      "skillCount": 1,
+      "skillRoot": "architecture-diagram",
+      "skillRootUrl": "https://github.com/Cocoon-AI/architecture-diagram-generator/tree/main/architecture-diagram"
     },
     {
       "name": "axtonliu/axton-obsidian-visual-skills",
@@ -4084,7 +4092,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/codex-ppt",
-      "skillRootUrl": "https://github.com/ningzimu/codex-ppt-skill/tree/main/skills/codex-ppt"
+      "skillRootUrl": "https://github.com/ningzimu/codex-ppt-skill/tree/main/skills%2Fcodex-ppt"
     },
     {
       "name": "NyxTides/ppt-image-first",
@@ -4253,6 +4261,31 @@
       "skillRootUrl": "https://github.com/claude-office-skills/skills/tree/main"
     },
     {
+      "name": "JuliusBrussee/caveman",
+      "owner": "JuliusBrussee",
+      "repo": "caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "category": "Writing & Anti-Slop",
+      "description": "Cut token usage and cost by making the agent communicate tersely",
+      "branch": "main",
+      "skillFiles": [
+        "plugins/caveman/skills/cavecrew/SKILL.md",
+        "plugins/caveman/skills/caveman-compress/SKILL.md",
+        "plugins/caveman/skills/caveman-stats/SKILL.md",
+        "plugins/caveman/skills/caveman/SKILL.md",
+        "skills/cavecrew/SKILL.md",
+        "skills/caveman-commit/SKILL.md",
+        "skills/caveman-compress/SKILL.md",
+        "skills/caveman-help/SKILL.md",
+        "skills/caveman-review/SKILL.md",
+        "skills/caveman-stats/SKILL.md",
+        "skills/caveman/SKILL.md"
+      ],
+      "skillCount": 11,
+      "skillRoot": "",
+      "skillRootUrl": "https://github.com/JuliusBrussee/caveman/tree/main"
+    },
+    {
       "name": "blader/humanizer",
       "owner": "blader",
       "repo": "humanizer",
@@ -4306,8 +4339,8 @@
         "skills/story/SKILL.md"
       ],
       "skillCount": 13,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/worldwonderer/oh-story-claudecode/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/worldwonderer/oh-story-claudecode/tree/main/skills"
     },
     {
       "name": "oaker-io/wewrite",
@@ -4330,8 +4363,8 @@
         "skills/wewrite/SKILL.md"
       ],
       "skillCount": 10,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/oaker-io/wewrite/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/oaker-io/wewrite/tree/main/skills"
     },
     {
       "name": "conorbronsdon/avoid-ai-writing",
@@ -4358,6 +4391,39 @@
       "description": "Write, optimize, and audit blog content end-to-end",
       "branch": "main",
       "skillFiles": [
+        "brain/.raw/sources/claude-blog-skill/skills/blog-analyze/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-audio/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-audit/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-brand/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-brief/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-calendar/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-cannibalization/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-chart/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-cluster/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-decay/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-discourse/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-factcheck/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-flow/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-geo/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-google/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-image/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-locale-audit/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-localize/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-multilingual/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-notebooklm/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-outline/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-persona/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-repurpose/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-rewrite/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-schema/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-seo-check/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-strategy/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-style/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-taxonomy/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-translate/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog-write/SKILL.md",
+        "brain/.raw/sources/claude-blog-skill/skills/blog/SKILL.md",
+        "brain/SKILL.md",
         "skills/blog-analyze/SKILL.md",
         "skills/blog-audio/SKILL.md",
         "skills/blog-audit/SKILL.md",
@@ -4367,6 +4433,7 @@
         "skills/blog-cannibalization/SKILL.md",
         "skills/blog-chart/SKILL.md",
         "skills/blog-cluster/SKILL.md",
+        "skills/blog-decay/SKILL.md",
         "skills/blog-discourse/SKILL.md",
         "skills/blog-factcheck/SKILL.md",
         "skills/blog-flow/SKILL.md",
@@ -4384,39 +4451,15 @@
         "skills/blog-schema/SKILL.md",
         "skills/blog-seo-check/SKILL.md",
         "skills/blog-strategy/SKILL.md",
+        "skills/blog-style/SKILL.md",
         "skills/blog-taxonomy/SKILL.md",
         "skills/blog-translate/SKILL.md",
         "skills/blog-write/SKILL.md",
         "skills/blog/SKILL.md"
       ],
-      "skillCount": 30,
+      "skillCount": 65,
       "skillRoot": "",
       "skillRootUrl": "https://github.com/AgriciDaniel/claude-blog/tree/main"
-    },
-    {
-      "name": "JuliusBrussee/caveman",
-      "owner": "JuliusBrussee",
-      "repo": "caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "category": "Writing & Anti-Slop",
-      "description": "Cut token usage and cost by making the agent communicate tersely",
-      "branch": "main",
-      "skillFiles": [
-        "plugins/caveman/skills/cavecrew/SKILL.md",
-        "plugins/caveman/skills/caveman-compress/SKILL.md",
-        "plugins/caveman/skills/caveman-stats/SKILL.md",
-        "plugins/caveman/skills/caveman/SKILL.md",
-        "skills/cavecrew/SKILL.md",
-        "skills/caveman-commit/SKILL.md",
-        "skills/caveman-compress/SKILL.md",
-        "skills/caveman-help/SKILL.md",
-        "skills/caveman-review/SKILL.md",
-        "skills/caveman-stats/SKILL.md",
-        "skills/caveman/SKILL.md"
-      ],
-      "skillCount": 11,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/JuliusBrussee/caveman/tree/main"
     },
     {
       "name": "coreyhaines31/marketingskills",
@@ -4433,6 +4476,7 @@
         "skills/ai-seo/SKILL.md",
         "skills/analytics/SKILL.md",
         "skills/aso/SKILL.md",
+        "skills/attribution/SKILL.md",
         "skills/churn-prevention/SKILL.md",
         "skills/co-marketing/SKILL.md",
         "skills/cold-email/SKILL.md",
@@ -4448,6 +4492,7 @@
         "skills/emails/SKILL.md",
         "skills/free-tools/SKILL.md",
         "skills/image/SKILL.md",
+        "skills/influencer-marketing/SKILL.md",
         "skills/launch/SKILL.md",
         "skills/lead-magnets/SKILL.md",
         "skills/marketing-council/SKILL.md",
@@ -4475,9 +4520,9 @@
         "skills/social/SKILL.md",
         "skills/video/SKILL.md"
       ],
-      "skillCount": 47,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/coreyhaines31/marketingskills/tree/main"
+      "skillCount": 49,
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/coreyhaines31/marketingskills/tree/main/skills"
     },
     {
       "name": "AgriciDaniel/claude-seo",
@@ -4617,7 +4662,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/app-store-screenshots",
-      "skillRootUrl": "https://github.com/ParthJadhav/app-store-screenshots/tree/main/skills/app-store-screenshots"
+      "skillRootUrl": "https://github.com/ParthJadhav/app-store-screenshots/tree/main/skills%2Fapp-store-screenshots"
     },
     {
       "name": "nowork-studio/NotFair",
@@ -4741,8 +4786,8 @@
         "skills/web-to-app-funnel/SKILL.md"
       ],
       "skillCount": 40,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/Eronred/aso-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/Eronred/aso-skills/tree/main/skills"
     },
     {
       "name": "onvoyage-ai/gtm-engineer-skills",
@@ -4897,7 +4942,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skill/ccpm",
-      "skillRootUrl": "https://github.com/automazeio/ccpm/tree/main/skill/ccpm"
+      "skillRootUrl": "https://github.com/automazeio/ccpm/tree/main/skill%2Fccpm"
     },
     {
       "name": "RefoundAI/lenny-skills",
@@ -4986,8 +5031,8 @@
         "skills/written-communication/SKILL.md"
       ],
       "skillCount": 76,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/RefoundAI/lenny-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/RefoundAI/lenny-skills/tree/main/skills"
     },
     {
       "name": "didit-protocol/skills",
@@ -5013,8 +5058,8 @@
         "skills/didit-verification-management/SKILL.md"
       ],
       "skillCount": 13,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/didit-protocol/skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/didit-protocol/skills/tree/main/skills"
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -5029,7 +5074,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "agent_reach/skill",
-      "skillRootUrl": "https://github.com/Panniantong/Agent-Reach/tree/main/agent_reach/skill"
+      "skillRootUrl": "https://github.com/Panniantong/Agent-Reach/tree/main/agent_reach%2Fskill"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -5044,7 +5089,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/last30days",
-      "skillRootUrl": "https://github.com/mvanhorn/last30days-skill/tree/main/skills/last30days"
+      "skillRootUrl": "https://github.com/mvanhorn/last30days-skill/tree/main/skills%2Flast30days"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -5057,6 +5102,7 @@
       "skillFiles": [
         "skills/adaptyv/SKILL.md",
         "skills/aeon/SKILL.md",
+        "skills/analytical-method-validation/SKILL.md",
         "skills/anndata/SKILL.md",
         "skills/arbor/SKILL.md",
         "skills/arboreto/SKILL.md",
@@ -5094,6 +5140,8 @@
         "skills/fluidsim/SKILL.md",
         "skills/generate-image/SKILL.md",
         "skills/geniml/SKILL.md",
+        "skills/genomic-coordinates/SKILL.md",
+        "skills/genomic-intelligence/SKILL.md",
         "skills/geomaster/SKILL.md",
         "skills/geopandas/SKILL.md",
         "skills/get-available-resources/SKILL.md",
@@ -5107,7 +5155,7 @@
         "skills/hypothesis-generation/SKILL.md",
         "skills/imaging-data-commons/SKILL.md",
         "skills/infographics/SKILL.md",
-        "skills/iso-13485-certification/SKILL.md",
+        "skills/iso-standards-readiness/SKILL.md",
         "skills/labarchive-integration/SKILL.md",
         "skills/lamindb/SKILL.md",
         "skills/latchbio-integration/SKILL.md",
@@ -5130,7 +5178,9 @@
         "skills/nextflow/SKILL.md",
         "skills/omero-integration/SKILL.md",
         "skills/onekgpd/SKILL.md",
+        "skills/ontology-term-resolution/SKILL.md",
         "skills/open-notebook/SKILL.md",
+        "skills/openpiv/SKILL.md",
         "skills/opentrons-integration/SKILL.md",
         "skills/optimize-for-gpu/SKILL.md",
         "skills/pacsomatic/SKILL.md",
@@ -5138,6 +5188,7 @@
         "skills/paperzilla/SKILL.md",
         "skills/parallel-web/SKILL.md",
         "skills/pathml/SKILL.md",
+        "skills/pathogen-variant-surveillance/SKILL.md",
         "skills/pathway-enrichment/SKILL.md",
         "skills/pdf/SKILL.md",
         "skills/peer-review/SKILL.md",
@@ -5198,6 +5249,7 @@
         "skills/transformers/SKILL.md",
         "skills/treatment-plans/SKILL.md",
         "skills/umap-learn/SKILL.md",
+        "skills/uncertainty-and-units/SKILL.md",
         "skills/usfiscaldata/SKILL.md",
         "skills/vaex/SKILL.md",
         "skills/venue-templates/SKILL.md",
@@ -5205,9 +5257,9 @@
         "skills/xlsx/SKILL.md",
         "skills/zarr-python/SKILL.md"
       ],
-      "skillCount": 149,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main"
+      "skillCount": 156,
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills"
     },
     {
       "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
@@ -5392,6 +5444,7 @@
         "skills/skills-codex/system-profile/SKILL.md",
         "skills/skills-codex/training-check/SKILL.md",
         "skills/skills-codex/vast-gpu/SKILL.md",
+        "skills/skills-codex/web-debug-search/SKILL.md",
         "skills/skills-codex/wiki-enrich/SKILL.md",
         "skills/skills-codex/writing-systems-papers/SKILL.md",
         "skills/slides-polish/SKILL.md",
@@ -5399,12 +5452,13 @@
         "skills/system-profile/SKILL.md",
         "skills/training-check/SKILL.md",
         "skills/vast-gpu/SKILL.md",
+        "skills/web-debug-search/SKILL.md",
         "skills/wiki-enrich/SKILL.md",
         "skills/writing-systems-papers/SKILL.md"
       ],
-      "skillCount": 183,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/tree/main"
+      "skillCount": 185,
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/tree/main/skills"
     },
     {
       "name": "Orchestra-Research/AI-Research-SKILLs",
@@ -5582,8 +5636,8 @@
         "skills/workflow_skill_creator/SKILL.md"
       ],
       "skillCount": 38,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/google-deepmind/science-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/google-deepmind/science-skills/tree/main/skills"
     },
     {
       "name": "Weizhena/Deep-Research-skills",
@@ -5616,8 +5670,8 @@
         "skills/research-zh/research/SKILL.md"
       ],
       "skillCount": 20,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/Weizhena/Deep-Research-skills/tree/master"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/Weizhena/Deep-Research-skills/tree/master/skills"
     },
     {
       "name": "PrathamLearnsToCode/paper2code",
@@ -5632,7 +5686,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/paper2code",
-      "skillRootUrl": "https://github.com/PrathamLearnsToCode/paper2code/tree/main/skills/paper2code"
+      "skillRootUrl": "https://github.com/PrathamLearnsToCode/paper2code/tree/main/skills%2Fpaper2code"
     },
     {
       "name": "cookiy-ai/user-research-skill",
@@ -5666,8 +5720,8 @@
         "skills/obsidian-markdown/SKILL.md"
       ],
       "skillCount": 5,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/kepano/obsidian-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/kepano/obsidian-skills/tree/main/skills"
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
@@ -5695,8 +5749,8 @@
         "skills/wiki/SKILL.md"
       ],
       "skillCount": 15,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/AgriciDaniel/claude-obsidian/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/AgriciDaniel/claude-obsidian/tree/main/skills"
     },
     {
       "name": "PleasePrompto/notebooklm-skill",
@@ -5776,8 +5830,8 @@
         ".skills/wiki-update/SKILL.md"
       ],
       "skillCount": 37,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/Ar9av/obsidian-wiki/tree/main"
+      "skillRoot": ".skills",
+      "skillRootUrl": "https://github.com/Ar9av/obsidian-wiki/tree/main/.skills"
     },
     {
       "name": "Astro-Han/karpathy-llm-wiki",
@@ -5811,8 +5865,8 @@
         ".claude/skills/sop-creator/SKILL.md"
       ],
       "skillCount": 6,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/coleam00/second-brain-skills/tree/main"
+      "skillRoot": ".claude/skills",
+      "skillRootUrl": "https://github.com/coleam00/second-brain-skills/tree/main/.claude%2Fskills"
     },
     {
       "name": "dzcmemory-web/bazi-ziwei-skill",
@@ -5864,7 +5918,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/dev-browser",
-      "skillRootUrl": "https://github.com/SawyerHood/dev-browser/tree/main/skills/dev-browser"
+      "skillRootUrl": "https://github.com/SawyerHood/dev-browser/tree/main/skills%2Fdev-browser"
     },
     {
       "name": "browserbase/skills",
@@ -5893,8 +5947,8 @@
         "skills/webmcp-gen/SKILL.md"
       ],
       "skillCount": 16,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/browserbase/skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/browserbase/skills/tree/main/skills"
     },
     {
       "name": "lackeyjb/playwright-skill",
@@ -5909,7 +5963,7 @@
       ],
       "skillCount": 1,
       "skillRoot": "skills/playwright-skill",
-      "skillRootUrl": "https://github.com/lackeyjb/playwright-skill/tree/main/skills/playwright-skill"
+      "skillRootUrl": "https://github.com/lackeyjb/playwright-skill/tree/main/skills%2Fplaywright-skill"
     },
     {
       "name": "JimLiu/baoyu-skills",
@@ -5963,8 +6017,23 @@
         "skills/web-video-presentation/SKILL.md"
       ],
       "skillCount": 5,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/ConardLi/garden-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/ConardLi/garden-skills/tree/main/skills"
+    },
+    {
+      "name": "wuyoscar/GPT-Image2-Skill",
+      "owner": "wuyoscar",
+      "repo": "GPT-Image2-Skill",
+      "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+      "category": "Media: Image & Video",
+      "description": "Generate images with a curated GPT-image prompt library and CLI",
+      "branch": "main",
+      "skillFiles": [
+        "skills/gpt-image/SKILL.md"
+      ],
+      "skillCount": 1,
+      "skillRoot": "skills/gpt-image",
+      "skillRootUrl": "https://github.com/wuyoscar/GPT-Image2-Skill/tree/main/skills%2Fgpt-image"
     },
     {
       "name": "SamurAIGPT/Generative-Media-Skills",
@@ -6054,21 +6123,6 @@
       "skillRootUrl": "https://github.com/SamurAIGPT/Generative-Media-Skills/tree/main"
     },
     {
-      "name": "wuyoscar/GPT-Image2-Skill",
-      "owner": "wuyoscar",
-      "repo": "GPT-Image2-Skill",
-      "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
-      "category": "Media: Image & Video",
-      "description": "Generate images with a curated GPT-image prompt library and CLI",
-      "branch": "main",
-      "skillFiles": [
-        "skills/gpt-image/SKILL.md"
-      ],
-      "skillCount": 1,
-      "skillRoot": "skills/gpt-image",
-      "skillRootUrl": "https://github.com/wuyoscar/GPT-Image2-Skill/tree/main/skills/gpt-image"
-    },
-    {
       "name": "0x0funky/agent-sprite-forge",
       "owner": "0x0funky",
       "repo": "agent-sprite-forge",
@@ -6082,8 +6136,8 @@
         "skills/video2dsprite/SKILL.md"
       ],
       "skillCount": 3,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/0x0funky/agent-sprite-forge/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/0x0funky/agent-sprite-forge/tree/main/skills"
     },
     {
       "name": "luoluoluo22/jianying-editor-skill",
@@ -6128,8 +6182,8 @@
         "swiftui-pro/skills/swiftui-pro/SKILL.md"
       ],
       "skillCount": 2,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/twostraws/SwiftUI-Agent-Skill/tree/main"
+      "skillRoot": "swiftui-pro",
+      "skillRootUrl": "https://github.com/twostraws/SwiftUI-Agent-Skill/tree/main/swiftui-pro"
     },
     {
       "name": "AvdLee/SwiftUI-Agent-Skill",
@@ -6203,7 +6257,22 @@
       ],
       "skillCount": 1,
       "skillRoot": "ios-simulator-skill/skills/ios-simulator-skill",
-      "skillRootUrl": "https://github.com/conorluddy/ios-simulator-skill/tree/main/ios-simulator-skill/skills/ios-simulator-skill"
+      "skillRootUrl": "https://github.com/conorluddy/ios-simulator-skill/tree/main/ios-simulator-skill%2Fskills%2Fios-simulator-skill"
+    },
+    {
+      "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+      "owner": "adamlyttleapps",
+      "repo": "claude-skill-app-onboarding-questionnaire",
+      "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+      "category": "Mobile & Apple",
+      "description": "Design high-converting app onboarding flows from your codebase",
+      "branch": "main",
+      "skillFiles": [
+        "SKILL.md"
+      ],
+      "skillCount": 1,
+      "skillRoot": "",
+      "skillRootUrl": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire/tree/main"
     },
     {
       "name": "CharlesWiltgen/Axiom",
@@ -6262,6 +6331,7 @@
         "axiom-codex/skills/axiom-audit-liquid-glass/SKILL.md",
         "axiom-codex/skills/axiom-audit-memory/SKILL.md",
         "axiom-codex/skills/axiom-audit-networking/SKILL.md",
+        "axiom-codex/skills/axiom-audit-resize/SKILL.md",
         "axiom-codex/skills/axiom-audit-spritekit/SKILL.md",
         "axiom-codex/skills/axiom-audit-storage/SKILL.md",
         "axiom-codex/skills/axiom-audit-swiftdata/SKILL.md",
@@ -6307,24 +6377,9 @@
         "axiom-codex/skills/axiom-watchos/SKILL.md",
         "axiom-codex/skills/axiom-xcode-mcp/SKILL.md"
       ],
-      "skillCount": 92,
+      "skillCount": 93,
       "skillRoot": "",
       "skillRootUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main"
-    },
-    {
-      "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
-      "owner": "adamlyttleapps",
-      "repo": "claude-skill-app-onboarding-questionnaire",
-      "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
-      "category": "Mobile & Apple",
-      "description": "Design high-converting app onboarding flows from your codebase",
-      "branch": "main",
-      "skillFiles": [
-        "SKILL.md"
-      ],
-      "skillCount": 1,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire/tree/main"
     },
     {
       "name": "twostraws/Swift-Concurrency-Agent-Skill",
@@ -6339,8 +6394,8 @@
         "swift-concurrency-pro/skills/swift-concurrency-pro/SKILL.md"
       ],
       "skillCount": 2,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/twostraws/Swift-Concurrency-Agent-Skill/tree/main"
+      "skillRoot": "swift-concurrency-pro",
+      "skillRootUrl": "https://github.com/twostraws/Swift-Concurrency-Agent-Skill/tree/main/swift-concurrency-pro"
     },
     {
       "name": "twostraws/Swift-Testing-Agent-Skill",
@@ -6355,8 +6410,8 @@
         "swift-testing-pro/skills/swift-testing-pro/SKILL.md"
       ],
       "skillCount": 2,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/twostraws/Swift-Testing-Agent-Skill/tree/main"
+      "skillRoot": "swift-testing-pro",
+      "skillRootUrl": "https://github.com/twostraws/Swift-Testing-Agent-Skill/tree/main/swift-testing-pro"
     },
     {
       "name": "twostraws/SwiftData-Agent-Skill",
@@ -6434,6 +6489,7 @@
         ".agents/skills/career-ops/SKILL.md",
         ".antigravitycli/skills/career-ops/SKILL.md",
         ".claude/skills/career-ops/SKILL.md",
+        ".cursor/skills/career-ops/SKILL.md",
         ".grok/skills/career-ops/SKILL.md",
         ".kimi/skills/career-ops/SKILL.md",
         ".opencode/skills/career-ops/SKILL.md",
@@ -6443,7 +6499,7 @@
         "plugins/gmail/skill.md",
         "plugins/notion/skill.md"
       ],
-      "skillCount": 11,
+      "skillCount": 12,
       "skillRoot": "",
       "skillRootUrl": "https://github.com/santifer/career-ops/tree/main"
     },
@@ -6473,8 +6529,8 @@
         "skills/using-n8n-mcp-skills/SKILL.md"
       ],
       "skillCount": 15,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/czlonkowski/n8n-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/czlonkowski/n8n-skills/tree/main/skills"
     },
     {
       "name": "anysearch-ai/anysearch-skill",
@@ -6516,6 +6572,7 @@
       "branch": "main",
       "skillFiles": [
         "plugins/data-providers/skills/finance-sentiment/SKILL.md",
+        "plugins/data-providers/skills/fintel-data/SKILL.md",
         "plugins/data-providers/skills/funda-data/SKILL.md",
         "plugins/data-providers/skills/hormuz-strait/SKILL.md",
         "plugins/data-providers/skills/hyperliquid-reader/SKILL.md",
@@ -6541,9 +6598,9 @@
         "plugins/startup-tools/skills/startup-analysis/SKILL.md",
         "plugins/ui-tools/skills/generative-ui/SKILL.md"
       ],
-      "skillCount": 25,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/himself65/finance-skills/tree/main"
+      "skillCount": 26,
+      "skillRoot": "plugins",
+      "skillRootUrl": "https://github.com/himself65/finance-skills/tree/main/plugins"
     },
     {
       "name": "romainsimon/paperasse",
@@ -6586,8 +6643,8 @@
         "skills/setup-timescaledb-hypertables/SKILL.md"
       ],
       "skillCount": 10,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/timescale/pg-aiguide/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/timescale/pg-aiguide/tree/main/skills"
     },
     {
       "name": "itsmostafa/aws-agent-skills",
@@ -6618,8 +6675,8 @@
         "skills/step-functions/SKILL.md"
       ],
       "skillCount": 18,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/itsmostafa/aws-agent-skills/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/itsmostafa/aws-agent-skills/tree/main/skills"
     },
     {
       "name": "aklofas/kicad-happy",
@@ -6643,8 +6700,8 @@
         "skills/spice/SKILL.md"
       ],
       "skillCount": 11,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/aklofas/kicad-happy/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/aklofas/kicad-happy/tree/main/skills"
     },
     {
       "name": "zhinkgit/embeddedskills",
@@ -6719,8 +6776,8 @@
         "plugins/serverless-eda/skills/aws-serverless-eda/SKILL.md"
       ],
       "skillCount": 6,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/zxkane/aws-skills/tree/main"
+      "skillRoot": "plugins",
+      "skillRootUrl": "https://github.com/zxkane/aws-skills/tree/main/plugins"
     },
     {
       "name": "luongnv89/claude-howto",
@@ -6781,8 +6838,8 @@
         "skills/new-skill-builder/SKILL.md"
       ],
       "skillCount": 3,
-      "skillRoot": "",
-      "skillRootUrl": "https://github.com/shane9coy/Agent-Skill-Architecture-Guide/tree/main"
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/shane9coy/Agent-Skill-Architecture-Guide/tree/main/skills"
     }
   ]
 }
